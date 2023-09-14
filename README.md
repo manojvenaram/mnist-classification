@@ -138,12 +138,13 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![](1.png)
-### Classification Report
 ![](2.png)
-### Confusion Matrix
+### Classification Report
 ![](3.png)
-### New Sample Data Prediction
+### Confusion Matrix
 ![](4.png)
+### New Sample Data Prediction
+![](5.png)
 
 
 ## RESULT  
